@@ -1,7 +1,6 @@
 
 Traveling Salesman Problem
 Link For Demo:
-https://drive.google.com/drive/u/1/folders/19NOrc1q_jbhVSkb352mVFxE88GFzWkNt 
 
 
 1.	Introduction
